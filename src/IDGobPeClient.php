@@ -104,7 +104,7 @@ class IDGobPeClient
     {
         $gClient = new Client();
 
-        $gRequest = $gClient->post($this->oConfig->userinfo_uri, [
+        $gRequest = $gClient->get($this->oConfig->userinfo_uri, [
             'headers' => [
                 'Authorization' => 'Bearer ' . $accessToken
             ]
