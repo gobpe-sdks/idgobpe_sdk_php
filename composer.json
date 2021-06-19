@@ -1,6 +1,6 @@
 {
   "name": "idgobpe/sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "SDK for connect with ID Gob.pe",
   "repository": "git@github.com:gobpe-sdks/idgobpe_sdk_php.git",
   "keywords": [
