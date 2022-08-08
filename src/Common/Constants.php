@@ -8,6 +8,7 @@ namespace PCM\Idgobpe\Common;
 class Constants
 {
     const ACR_ONE_FACTOR = 'one_factor';
+    const ACR_TWO_FACTOR = 'two_factor';
     const ACR_CERTIFICATE_DNIE = 'certificate_dnie';
     const ACR_CERTIFICATE_TOKEN = 'certificate_token';
     const ACR_CERTIFICATE_DNIE_LEGACY = 'certificate_dnie_legacy';
