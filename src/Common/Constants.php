@@ -17,5 +17,7 @@ class Constants
     const PROMPT_LOGIN = 'login';
     const PROMPT_CONSENT = 'consent';
     const SCOPE_PROFILE = 'profile';
+	const SCOPE_EMAIL = 'email';
+	const SCOPE_PHONE = 'phone';
     const SCOPE_OFFLINE_ACCESS = 'offline_access';
 }
